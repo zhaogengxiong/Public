@@ -1,0 +1,845 @@
+[ 2018-07-13T15:06:07+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T15:06:22+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-13T15:16:06+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: Class 'Think\verify' not found
+
+[ 2018-07-13T15:17:10+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected '\' (T_NS_SEPARATOR)
+
+[ 2018-07-13T15:17:12+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected '\' (T_NS_SEPARATOR)
+
+[ 2018-07-13T15:17:14+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected '\' (T_NS_SEPARATOR)
+
+[ 2018-07-13T15:17:25+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected '\' (T_NS_SEPARATOR)
+
+[ 2018-07-13T15:17:26+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected '\' (T_NS_SEPARATOR)
+
+[ 2018-07-13T15:17:27+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected '\' (T_NS_SEPARATOR)
+
+[ 2018-07-13T15:17:52+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: Call to a member function entry() on unknown
+
+[ 2018-07-13T15:17:54+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: Call to a member function entry() on unknown
+
+[ 2018-07-13T15:22:20+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected ''useNoise'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2018-07-13T15:22:21+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected ''useNoise'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2018-07-13T15:22:38+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected ''useNoise'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2018-07-13T15:22:40+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected ''useNoise'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2018-07-13T15:23:36+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected ''useNoise'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2018-07-13T15:23:38+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/code
+ERR: syntax error, unexpected ''useNoise'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2018-07-13T15:45:38+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/
+ERR: 模板不存在:./Project/Home/View//Index/index.html
+
+[ 2018-07-13T15:45:45+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/Index/index
+ERR: 模板不存在:./Project/Home/View//Index/index.html
+
+[ 2018-07-13T15:46:13+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/index/Home/index
+ERR: 模板不存在:./Project/Home/View//Index/index.html
+
+[ 2018-07-13T15:46:18+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/
+ERR: 模板不存在:./Project/Home/View//Index/index.html
+
+[ 2018-07-13T15:46:25+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu%20%201/
+ERR: 模板不存在:./Project/Home/View//Index/index.html
+
+[ 2018-07-13T15:47:09+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/
+ERR: 模板不存在:./Project/Home/View//Index/index.html
+
+[ 2018-07-13T15:47:39+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/index
+ERR: 模板不存在:./Project/Home/View//Index/index.html
+
+[ 2018-07-13T15:59:06+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/index
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:42:17+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:43:20+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:43:22+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:43:57+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:43:59+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:44:35+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:45:02+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:46:02+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:46:03+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:47:42+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/docode
+ERR: 参数错误或者未定义:code
+
+[ 2018-07-13T18:53:13+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:54:12+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:54:15+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:54:23+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/index
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:55:39+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/index
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:55:49+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:55:51+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:55:53+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:56:05+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:56:47+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:56:48+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:56:51+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T18:57:46+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/index
+ERR: 模板不存在:./Project/Home/View/Index/index.html
+
+[ 2018-07-13T19:01:08+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/code0.3018940299902655
+ERR: 非法操作:code0.3018940299902655
+
+[ 2018-07-13T19:01:11+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/code0.373213546037794
+ERR: 非法操作:code0.373213546037794
+
+[ 2018-07-13T19:01:12+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/code0.8991961202961225
+ERR: 非法操作:code0.8991961202961225
+
+[ 2018-07-13T19:01:53+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=mc24
+ERR: 非法操作:result
+
+[ 2018-07-13T19:02:08+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=mc24
+ERR: 非法操作:result
+
+[ 2018-07-13T19:02:09+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=mc24
+ERR: 非法操作:result
+
+[ 2018-07-13T19:09:53+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/docode?code=p
+ERR: Class 'Think\Verif' not found
+
+[ 2018-07-13T19:09:59+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/docode?code=s
+ERR: Class 'Think\Verif' not found
+
+[ 2018-07-13T19:10:09+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/docode?code=s
+ERR: Call to a member function check() on unknown
+
+[ 2018-07-13T19:10:13+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/docode?code=
+ERR: Call to a member function check() on unknown
+
+[ 2018-07-13T19:15:04+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/code
+ERR: syntax error, unexpected 'else' (T_ELSE)
+
+[ 2018-07-13T19:15:06+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/index
+ERR: syntax error, unexpected 'else' (T_ELSE)
+
+[ 2018-07-13T19:15:07+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/index
+ERR: syntax error, unexpected 'else' (T_ELSE)
+
+[ 2018-07-13T19:15:08+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/
+ERR: syntax error, unexpected 'else' (T_ELSE)
+
+[ 2018-07-13T19:15:11+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/
+ERR: syntax error, unexpected 'else' (T_ELSE)
+
+[ 2018-07-13T19:15:26+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Index/index
+ERR: syntax error, unexpected 'else' (T_ELSE)
+
+[ 2018-07-13T19:15:41+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=rw
+ERR: Call to a member function check() on unknown
+
+[ 2018-07-13T19:15:46+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=q
+ERR: Call to a member function check() on unknown
+
+[ 2018-07-13T19:16:51+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=q
+ERR: Call to a member function check() on unknown
+
+[ 2018-07-13T19:16:56+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=1
+ERR: Call to a member function check() on unknown
+
+[ 2018-07-13T19:18:21+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=1
+ERR: Call to a member function check() on unknown
+
+[ 2018-07-13T19:18:24+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=q
+ERR: Call to a member function check() on unknown
+
+[ 2018-07-13T19:19:58+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Index/result?code=4el
+ERR: Call to a member function check() on unknown
+
+[ 2018-07-13T19:38:57+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/result?code=dsfs
+ERR: 非法操作:result
+
+[ 2018-07-13T19:39:07+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/result?code=dsfs
+ERR: 非法操作:result
+
+[ 2018-07-13T19:39:26+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/A%E5%AE%B6%E4%B9%A1/Index
+ERR: 无法加载控制器:A家乡
+
+[ 2018-07-13T19:56:46+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code0.4366622751755781
+ERR: 非法操作:code0.4366622751755781
+
+[ 2018-07-13T19:56:47+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code0.5821495739686996
+ERR: 非法操作:code0.5821495739686996
+
+[ 2018-07-13T19:56:47+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code0.4801542104230777
+ERR: 非法操作:code0.4801542104230777
+
+[ 2018-07-13T19:56:48+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code0.3477484077482076
+ERR: 非法操作:code0.3477484077482076
+
+[ 2018-07-13T19:56:49+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code0.3147361964161032
+ERR: 非法操作:code0.3147361964161032
+
+[ 2018-07-13T19:56:49+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code0.34800704921595105
+ERR: 非法操作:code0.34800704921595105
+
+[ 2018-07-13T19:58:30+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code0.871655423211057
+ERR: 非法操作:code0.871655423211057
+
+[ 2018-07-13T19:58:30+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code0.3576106818141227
+ERR: 非法操作:code0.3576106818141227
+
+[ 2018-07-13T19:58:31+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code0.6311354937816793
+ERR: 非法操作:code0.6311354937816793
+
+[ 2018-07-13T19:59:09+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T19:59:25+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T19:59:26+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/code
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T19:59:26+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/A%E5%AE%B6%E4%B9%A1/Index
+ERR: 无法加载控制器:A家乡
+
+[ 2018-07-13T19:59:44+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T19:59:50+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T19:59:52+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T20:00:17+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T20:00:18+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T20:00:57+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T20:01:12+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T20:01:14+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index/Home/Ajax/index
+ERR: 无法加载控制器:Ajax
+
+[ 2018-07-13T20:44:02+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=s
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T20:45:31+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=ds
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T20:47:49+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=dsd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T20:59:09+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=udsf
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T20:59:28+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=sfd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T20:59:54+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=edsf
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+
+[ 2018-07-13T21:09:57+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=bcbh
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+
+[ 2018-07-13T21:10:18+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=sfdfd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-07-13T21:10:26+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=sfdfd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-07-13T21:10:37+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=q3ui
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+
+[ 2018-07-13T21:11:45+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-07-13T21:13:18+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=mbx4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-07-13T21:13:31+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=fd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:13:34+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=fddd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:13:38+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=dsddf+
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+
+[ 2018-07-13T21:13:42+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=dsddf+
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+
+[ 2018-07-13T21:20:14+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=dsddf+
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:20:26+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=dqxc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:21:15+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=cujm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:21:44+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=dsgdf
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:21:47+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=dsgd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:21:54+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=sffs
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:22:00+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=krsx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:22:33+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=fxcc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:22:54+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=sfds
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:23:44+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=sdzx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:24:05+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=4lan
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+
+[ 2018-07-13T21:25:40+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=df
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:25:44+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=ddf
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:25:47+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=sdfd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:25:57+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=df2n
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:35:47+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=nabn
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+
+[ 2018-07-13T21:36:51+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=ubih
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-07-13T21:37:13+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=m
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:37:18+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=m
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:37:23+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=mqeb
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:37:27+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=wmy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:40:46+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2018-07-13T21:41:24+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=wmy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:44:32+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=wmy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:45:12+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=wmy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:45:29+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-07-13T21:45:31+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018001s ]
+
+[ 2018-07-13T21:45:36+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2018-07-13T21:45:38+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:46:01+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:46:03+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:47:33+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-13T21:47:36+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:52:41+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-13T21:52:58+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-13T21:53:07+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgz' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2018-07-13T21:53:17+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=gz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'gz' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2018-07-13T21:53:27+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=esdfdg
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'esdfdg' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-13T21:53:57+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2018-07-13T21:54:14+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx22
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx22' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-07-13T21:58:05+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+ERR: Think\Controller:ajaxRrtuen方法不存在！
+
+[ 2018-07-13T21:58:48+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgz' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+ERR: Think\Controller:ajaxRrturn方法不存在！
+
+[ 2018-07-13T21:59:19+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+
+[ 2018-07-13T21:59:29+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=wmy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'wmy' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-07-13T22:03:36+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx11' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-07-13T22:04:25+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=wmy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'wmy' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-07-13T22:05:04+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+
+[ 2018-07-13T22:05:11+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx11' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-07-13T22:06:17+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx11' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-07-13T22:06:38+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx11' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-07-13T22:06:56+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx11' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-07-13T22:07:12+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx11' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-07-13T22:20:27+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx11' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-07-13T22:20:33+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx' LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+
+[ 2018-07-13T22:36:14+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxuser?name=zgx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `name` = 'zgx' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] md5() expects at least 1 parameter, 0 given E:\wamp\www\thinkphp 03\xiangmu1\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+
+[ 2018-07-13T22:36:20+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+
+[ 2018-07-13T22:36:26+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=p
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+
+[ 2018-07-13T22:36:36+08:00 ] 127.0.0.1 /thinkphp%2003/xiangmu1/index.php/Home/Ajax/ajaxcode?code=pmdv
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+
